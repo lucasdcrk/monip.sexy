@@ -50,6 +50,6 @@
         </div>
     </div>
 
-    <script async defer data-website-id="b550a0a6-da98-406f-8cae-472613edab39" src="https://analytics.sitax.is/umami.js"></script>
+    <script async defer data-website-id="5dd7775c-d1d3-4c15-9195-32fe40a933f4" src="https://analytics.sitax.is/umami.js"></script>
 </body>
 </html>
